@@ -1,0 +1,7 @@
+node_modules
+Dockerfile
+config.json
+package-lock.json
+leer.md
+.env
+.dockerignore

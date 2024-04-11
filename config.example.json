@@ -1,0 +1,6 @@
+{
+    "clientId": "ID del bot",
+    "guildId": "ID del servidor principal",
+    "token": "Toekn del bot",
+    "ownerId": "ID del owner"
+}
