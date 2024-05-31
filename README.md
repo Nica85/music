@@ -14,6 +14,11 @@ Luego instalan los paquetes con el siguiente comando:
 
 - **npm i**
 
+Instalar FFMPEG:
+
+- **sudo apt update**
+- **sudo apt install ffmpeg**
+
 Pueden registar los comandos para 1 servidor o pueden hacerlo global, abren una terminal en la carpeta config y ahi pueden ejecutar según lo deseen:
 ***NOTA: Si lo hacen para 1 servidor tienen que invitar primero al bot, luego ejecutar el comando y por ultimo iniciarlo.***
 
